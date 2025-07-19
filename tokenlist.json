@@ -1,0 +1,16 @@
+{
+  "name": "Archer Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArcherCoin2025/archer-tokenlist/main/8wWLwgc6r3gz5hN1jUUW5e1mhvRhh5bCbdtB7FyXz9N5.png",
+  "tags": {},
+  "timestamp": "2025-07-19T16:30:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8wWLwgc6r3gz5hN1jUUW5e1mhvRhh5bCbdtB7FyXz9N5",
+      "symbol": "ARCHER",
+      "name": "ARCHER",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArcherCoin2025/archer-tokenlist/main/8wWLwgc6r3gz5hN1jUUW5e1mhvRhh5bCbdtB7FyXz9N5.png"
+    }
+  ]
+}
